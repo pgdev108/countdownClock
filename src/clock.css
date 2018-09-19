@@ -1,0 +1,46 @@
+.timerDisplaySection {
+  margin: 100px;
+}
+
+.timerInputFieldRow {
+  margin: 50px 0 20px 0;
+}
+
+.timerFormatSection {
+  margin: 20px;
+}
+
+.setTimeButtonSection button {
+  font-size: 14px;
+}
+
+.timerFormatSection select {
+  font-size: 14px;
+}
+
+.timerValueSection {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.timerVaue {
+  font-size: 50px;
+}
+
+.timerDisplaySection button {
+  margin: 10px;
+  font-size: 14px;
+}
+
+.timeInputFieldSection {
+  display: inline-block;
+}
+.timeInputField {
+  width: 40px;
+  font-size: 20px;
+  margin: 5px 10px;
+}
+
+.timeLabel {
+  font-size: 12px;
+}
